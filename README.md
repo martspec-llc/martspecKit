@@ -9,7 +9,7 @@ Various tools for development that we have created
 4. [**“Switch Locale”**](simulatorShortcuts/Switch%20Locale.shortcut) - prompts to select a language and updates the locale of the running simulator accordingly.
 
 ### Showcase
-<video controls src="assets/SimShortcutsShowcase.mp4"></video>
+https://github.com/user-attachments/assets/2c282e66-72fe-4959-ba6f-622e3865fbd5
 
 ### Warp commands
 There're a set of the same [commands](https://app.warp.dev/drive/folder/Simulators-PQEvBCB6J30zrsOIZjymZf) but for Warp usage
