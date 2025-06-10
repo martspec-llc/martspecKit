@@ -8,7 +8,6 @@ Various tools for development that we have created
 3. [**“Restart Sim”**](simulatorShortcuts/Restart%20Sim.shortcut) - restarts the currently running simulator.
 4. [**“Switch Locale”**](simulatorShortcuts/Switch%20Locale.shortcut) - prompts to select a language and updates the locale of the running simulator accordingly.
 
-### Showcase
 https://github.com/user-attachments/assets/2c282e66-72fe-4959-ba6f-622e3865fbd5
 
 ### Warp commands
